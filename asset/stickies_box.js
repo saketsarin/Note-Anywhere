@@ -1,4 +1,4 @@
-var id = 0;
+  var id = 0;
 var boxes = new Array();
 var highestZ = 0;
 var notes = new Array();
